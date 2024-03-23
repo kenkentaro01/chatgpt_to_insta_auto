@@ -1,0 +1,2 @@
+# chatgpt_to_insta_auto
+chatGPTとInstagramのAPIを利用し自動投稿する
